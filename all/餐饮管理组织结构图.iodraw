@@ -128,9 +128,9 @@
         <mxCell id="jtVcoh9JixsKTKlxoExF-32" value="" style="line;strokeWidth=2;direction=south;html=1;" vertex="1" parent="1">
           <mxGeometry x="848" y="569" width="10" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="jtVcoh9JixsKTKlxoExF-33" value="" style="endArrow=none;html=1;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fontFamily=Garamond;fontSize=18;fontColor=#000000;align=center;" edge="1" parent="1">
+        <mxCell id="jtVcoh9JixsKTKlxoExF-33" value="" style="endArrow=none;html=1;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fontFamily=Garamond;fontSize=18;fontColor=#000000;align=center;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="jtVcoh9JixsKTKlxoExF-34">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="93" y="519" as="sourcePoint" />
+            <mxPoint x="96" y="519" as="sourcePoint" />
             <mxPoint x="96" y="472" as="targetPoint" />
           </mxGeometry>
         </mxCell>
