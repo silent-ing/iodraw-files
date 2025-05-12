@@ -46,7 +46,7 @@
         <mxCell id="eHBMIgYKwNoicw80gMCx-28" value="密码重置" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontFamily=Garamond;fontSize=18;fontColor=#000000;align=center;" parent="1" vertex="1">
           <mxGeometry x="-100" y="623" width="40" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="eHBMIgYKwNoicw80gMCx-29" value="售&lt;div&gt;后&lt;/div&gt;&lt;div&gt;服&lt;/div&gt;&lt;div&gt;务&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontFamily=Garamond;fontSize=18;fontColor=#000000;align=center;" parent="1" vertex="1">
+        <mxCell id="eHBMIgYKwNoicw80gMCx-29" value="增删改查" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontFamily=Garamond;fontSize=18;fontColor=#000000;align=center;" parent="1" vertex="1">
           <mxGeometry x="-47" y="623" width="40" height="100" as="geometry" />
         </mxCell>
         <mxCell id="jtVcoh9JixsKTKlxoExF-6" value="用户登录" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontFamily=Garamond;fontSize=18;fontColor=#000000;align=center;" vertex="1" parent="1">
