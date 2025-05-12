@@ -28,18 +28,6 @@
             <mxPoint x="360" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eHBMIgYKwNoicw80gMCx-17" value="" style="endArrow=none;html=1;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fontFamily=Garamond;fontSize=18;fontColor=#000000;align=center;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="520" y="520" as="sourcePoint" />
-            <mxPoint x="520" y="470" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="eHBMIgYKwNoicw80gMCx-18" value="" style="endArrow=none;html=1;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fontFamily=Garamond;fontSize=18;fontColor=#000000;align=center;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="700" y="520" as="sourcePoint" />
-            <mxPoint x="686" y="476" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="eHBMIgYKwNoicw80gMCx-19" value="用户管理模块" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeWidth=2;fontFamily=Garamond;fontSize=18;align=center;labelBorderColor=none;" parent="1" vertex="1">
           <mxGeometry x="-68" y="520" width="120" height="50" as="geometry" />
         </mxCell>
