@@ -49,6 +49,9 @@
         <mxCell id="eHBMIgYKwNoicw80gMCx-19" value="用户管理模块" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeWidth=2;fontFamily=Garamond;fontSize=18;align=center;labelBorderColor=none;" parent="1" vertex="1">
           <mxGeometry x="-30" y="520" width="120" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="jtVcoh9JixsKTKlxoExF-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eHBMIgYKwNoicw80gMCx-20" target="eHBMIgYKwNoicw80gMCx-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="eHBMIgYKwNoicw80gMCx-20" value="品保部" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeWidth=2;fontFamily=Garamond;fontSize=18;align=center;" parent="1" vertex="1">
           <mxGeometry x="140" y="520" width="120" height="50" as="geometry" />
         </mxCell>
