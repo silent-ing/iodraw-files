@@ -130,7 +130,7 @@
             <mxPoint x="380" y="605" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jtVcoh9JixsKTKlxoExF-51" value="市&lt;div&gt;场&lt;/div&gt;&lt;div&gt;开&lt;/div&gt;&lt;div&gt;发&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontFamily=Garamond;fontSize=18;fontColor=#000000;align=center;" vertex="1" parent="1">
+        <mxCell id="jtVcoh9JixsKTKlxoExF-51" value="数据展示" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontFamily=Garamond;fontSize=18;fontColor=#000000;align=center;" vertex="1" parent="1">
           <mxGeometry x="307" y="623" width="40" height="100" as="geometry" />
         </mxCell>
         <mxCell id="jtVcoh9JixsKTKlxoExF-52" value="售&lt;div&gt;后&lt;/div&gt;&lt;div&gt;服&lt;/div&gt;&lt;div&gt;务&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontFamily=Garamond;fontSize=18;fontColor=#000000;align=center;" vertex="1" parent="1">
