@@ -223,7 +223,7 @@
         <mxCell id="jtVcoh9JixsKTKlxoExF-75" value="个性化设置" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontFamily=Garamond;fontSize=18;fontColor=#000000;align=center;" vertex="1" parent="1">
           <mxGeometry x="708" y="623" width="40" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="jtVcoh9JixsKTKlxoExF-76" value="售&lt;div&gt;后&lt;/div&gt;&lt;div&gt;服&lt;/div&gt;&lt;div&gt;务&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontFamily=Garamond;fontSize=18;fontColor=#000000;align=center;" vertex="1" parent="1">
+        <mxCell id="jtVcoh9JixsKTKlxoExF-76" value="数据持久化" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontFamily=Garamond;fontSize=18;fontColor=#000000;align=center;" vertex="1" parent="1">
           <mxGeometry x="761" y="623" width="40" height="100" as="geometry" />
         </mxCell>
         <mxCell id="jtVcoh9JixsKTKlxoExF-77" value="路线推荐" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontFamily=Garamond;fontSize=18;fontColor=#000000;align=center;" vertex="1" parent="1">
